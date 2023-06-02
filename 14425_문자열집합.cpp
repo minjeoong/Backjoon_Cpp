@@ -20,6 +20,5 @@ int main(){
             countd++;
         }
     }
-
     cout << countd << endl;
 }
